@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+}
+
+#pokemones {
+  max-width: 300px;
+  background-color: #5c5470;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+#pokemones h2 {
+  margin-bottom: .7rem;
+}
+
+#pokemons ul h1 {
+  margin-bottom: .5rem;
+}
+
+#pokemones li {
+  margin-bottom: .5rem;
+}
+
+.oculto {
+  display: none ;
+}
+
+.resalte {
+  text-transform: uppercase;
+  color: #ff8ba0;
+}
