@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+}
+body {
+  height: 100vh;
+  font-family: sans-serif;
+  color: whitesmoke;
+  background-color: #2a2438;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  width: 200px;
+  padding: .8rem .5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  border-radius: .4rem;
+  background-color: #ff8ba0;
+  color: #e41f7b;
+  box-shadow: 0 4px 0 0 #86003c;
+  cursor: pointer;
+  transition: all .300s ease;
+}
+
+button {
+  background-color: #86003c;
+  color: whitesmoke;
+  box-shadow: 0 0 0 0;
+}

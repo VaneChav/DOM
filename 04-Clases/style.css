@@ -8,10 +8,6 @@ body {
   font-family: sans-serif;
 }
 
-ul {
-
-}
-
 .ingredientes {
   width: 300px;
   margin: 0 auto;
@@ -29,4 +25,12 @@ ul {
 
 .botana {
   padding: .5rem .3rem;
+}
+
+.semilla {
+  background-color: lightsalmon;
+}
+
+.picante {
+  background-color: red;
 }
